@@ -1,11 +1,11 @@
 # LCElauncher
 
 <p align="center">
-  <img src="https://github.com/ProjectAetherWare/LCElauncher/raw/main/src/logo.png" alt="LCElauncher Logo" width="300">
+  <img src="https://raw.githubusercontent.com/ProjectAetherWare/LCElauncher/main/src/Assets/logo.png" alt="LCElauncher Logo" width="300">
 </p>
 
 <p align="center">
-  <img src="https://github.com/ProjectAetherWare/LCElauncher/raw/main/src/minilogo.png" alt="Mini Logo" width="90">
+  <img src="https://raw.githubusercontent.com/ProjectAetherWare/LCElauncher/main/src/Assets/minilogo.png" alt="Mini Logo" width="90">
 </p>
 
 <p align="center">
@@ -28,19 +28,23 @@
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/ProjectAetherWare/LCElauncher/raw/main/src/screenshots/screenshot.png" alt="Screenshot" width="800">
+  <img src="https://raw.githubusercontent.com/ProjectAetherWare/LCElauncher/main/src/Assets/screenshots/screenshot.png" alt="Screenshot" width="800">
 </p>
 
 ---
 
 ## Project Structure
+
+
 LCElauncher/
 ├─ README.md
 ├─ src/
-│ ├─ logo.png
-│ ├─ minilogo.png
-│ └─ screenshots/
-│ └─ screenshot.png
+│ ├─ Assets/
+│ │ ├─ logo.png
+│ │ ├─ minilogo.png
+│ │ └─ screenshots/
+│ │ └─ screenshot.png
+
 
 ---
 
