@@ -1,8 +1,18 @@
 # LCElauncher
 
-![LCElauncher Logo](assets/logo.png)
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/LCElauncher/raw/main/src/logo.png" alt="LCElauncher Logo" width="300">
+</p>
 
-LCE is a launcher for MC Legacy Console Edition (LCE)
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/LCElauncher/raw/main/src/minilogo.png" alt="Mini Logo" width="90">
+</p>
+
+<p align="center">
+  LCE is a launcher for Minecraft Legacy Console Edition (LCE)
+</p>
+
+---
 
 ## Features
 
@@ -11,12 +21,16 @@ LCE is a launcher for MC Legacy Console Edition (LCE)
 - Name changing and custom skins  
 - LAN server management  
 - Multiple installations support  
-- Ability to download any LCE version by either clicking one of the most popular versions or pasting your own link
+- Ability to download any LCE version by either selecting a popular version or pasting your own link
 
-## Why should I use?
+---
 
-It is easy and simple, made for anybody who wants to relive the classic console experience without all the hassle of setting it up.
+## Screenshots
 
-![Mini Logo](assets/minilogo.png)
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/LCElauncher/raw/main/src/screenshots/screenshot.png" alt="Screenshot" width="800">
+</p>
 
-![Screenshot](screenshots/screenshot.png)
+---
+
+## Project Structure
